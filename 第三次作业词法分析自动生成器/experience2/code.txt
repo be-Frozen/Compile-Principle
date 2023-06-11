@@ -1,0 +1,39 @@
+bool lexicalAnalysis(string s)
+{
+    int i = 0;
+    int state = 1;
+    while (state == 1 || state == 2 || state == 3)
+    {
+        switch (state)
+        {
+        case 1:
+            if (s[i] == '+')
+            {
+                i++;
+                state = 2;
+            }
+            else
+                state = 5;
+            break;
+        case 2:
+            if (s[i] == '+')
+            {
+                i++;
+                state = 3;
+            }
+            else
+                state = 5;
+            break;
+        case 3:
+            else
+                state = 4;
+            break;
+        default:
+            break;
+        }
+    }
+    if (state == 4)
+        return true;
+    else
+        return false;
+}

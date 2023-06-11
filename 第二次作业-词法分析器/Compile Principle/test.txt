@@ -1,0 +1,21 @@
+int main() {
+    char ch = 'A';
+    string str = "19200120cgd"
+    char ch2 = 'B';
+    init();
+    double x = 10.31;
+
+/* Compile Principle 
+
+123456789
+
+*/
+    int m = 0;
+    int y = 310, m = 0.31;
+    while(pos <= len) {
+            cout << t << endl;
+        } 
+​	else cout << "Error!" << endl;
+​    }
+​    return 0;
+}

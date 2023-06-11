@@ -1,0 +1,14 @@
+﻿  LL1.cpp
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(139,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(146,53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(150,53): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(164,54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(168,54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(177,54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(179,54): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(439,6): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(361,6): warning C4101: “m”: 未引用的局部变量
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(361,9): warning C4101: “n”: 未引用的局部变量
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(466,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Code\LL1\LL1\LL1.cpp(473,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  LL1.vcxproj -> D:\Visual Studio Code\LL1\x64\Debug\LL1.exe
